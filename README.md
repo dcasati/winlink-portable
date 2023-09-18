@@ -1,6 +1,12 @@
 # winlink-portable
 Documentation on how to setup Winlink for portable operations
 
+## Setting up the computer
+
+### Windows
+
+### RadioMail
+
 ## Setting up the radio
 
 ### Baofeng UV-5R
