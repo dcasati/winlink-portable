@@ -1,0 +1,4 @@
+# Start hostednetwork on Windows 10
+REM Starting hostednetwork
+netsh wlan set hostednetwork mode=allow ssid=VE6DPC-LAPTOP key=CHANGEME
+netsh wlan start hostednetwork
