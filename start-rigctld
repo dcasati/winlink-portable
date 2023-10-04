@@ -1,3 +1,0 @@
-# Configuration for the FT817/FT818nd using Digirig on COM10
-REM Start rigctld
-"C:\hamlib\bin"\rigctld.exe -m 1020 -s 38400 -r COM10 -v
