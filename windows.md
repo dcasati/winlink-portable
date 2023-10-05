@@ -13,7 +13,7 @@ For our modem, we will be using Vara. On this topic, you can use the free versio
 
 1. Download and install Vara from [here](https://rosmodem.wordpress.com/).
     
-    > NOTE: 
+    > [!NOTE]
     >
     > In here you could opt to have a dedicated Vara "modem headless machine" with either Vara FM, Vara HF or both. 
 
@@ -21,6 +21,7 @@ To control our radio (FT818nd), we will be using `rigctld`. This will allow for 
 
 1. Install `rigctld`, available as part of the `hamlib` library [here](https://github.com/Hamlib/Hamlib/releases/tag/4.5.5). Unzip this under `C:\hamlib` as we will be referencing this directory later in this doc.
 
+> [!NOTE]
 > OPTIONAL STEPS:
 > 
 > Optionally, you could install the [Winlink Express client](https://downloads.winlink.org/User%2520Programs/) on this machine and use it either localy or through Remote Desktop.
