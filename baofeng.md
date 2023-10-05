@@ -11,7 +11,11 @@ For the UV-5R there are a few changes. One important notice is that the UV5R vol
 
 For Vara FM to work with the UV-5R we need to setup a few things.
 
-**VARA Setup**
+**VARA FM Setup**
+
+1. Open up Vara FM
+
+    ![Alt text](media/vara-fm.png)
 
 1. Click on `Settings->Vara Setup`
 

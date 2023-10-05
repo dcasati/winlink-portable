@@ -43,6 +43,10 @@ netsh wlan start hostednetwork
 ```
 Save this script under **`C:\MODEM`**
 
+> [!NOTE]
+>
+> If running this script manually, you need to **run it as administrator**.
+
 With this bat script in place, we can proceed by creating a Task to automate its run during the bootstraping process of Windows.
 
 Procedure:
@@ -116,8 +120,6 @@ Procedure:
 
     1. Select the `Triggers` tab and then `New`. Enable the following values:
 
-
     1. Under `Actions` click on `New`. Inside of the `Edit Action` window select `Action: Start a program` and then select the bat script that starts your adhoc network as showed here:
-
 
     1. Click on `OK` to save your task.

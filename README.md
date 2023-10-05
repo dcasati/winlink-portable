@@ -17,10 +17,10 @@ The following describes a setup for a portable Winlink station, using two differ
 1. Radios:
     1. [Baofeng UV-5R](baofeng.md)
     1. [Yaesu FT-818nd](818nd.md)
-1. [RadioMai](radiomail.md)
+1. [RadioMail](radiomail.md)
 1. Carrying your gear:
     1. [Makeshift manpack for the Yaesu FT-818nd](manpack.md)
-    1. [Hard case for the UV-5R]
+    1. [Hard case for the UV-5R](hardcase.md)
 1. [Power options](power.md)
 
 ## Learning resources
