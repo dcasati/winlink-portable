@@ -7,7 +7,7 @@ The following describes a setup for a portable Winlink station, using two differ
 > If your hardware supports it, we will have a machine that can be used as a "headless modem for Vara". This means that we could use it as a dedicated device for Vara FM/HF and use [RadioMail](https://radiomail.app/) as a Winlink client to connect to it.
 
 ![Alt text](media/cyberdeck.png)
-<p style="text-align: center;">RadioMail, Baofeng, digirig and a mini-pc working together as a Winlink portable station.</p>
+<p align="center">RadioMail, Baofeng, digirig and a mini-pc working together as a Winlink portable station.</p>
 
 
 ## Topics:

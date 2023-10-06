@@ -1,7 +1,7 @@
 # Makeshift manpack for the FT818nd
 
 ![Alt text](media/manpack.png)
-<p style="text-align: center;">The AI generated manpack is cooler the the actual manpack.</p>
+<p align="center">The AI generated manpack is cooler than the actual manpack.</p>
 
 This is a makeshift manpack that houses a FT-818nd, an LDG z-817 autotunner, and a digirig. Cable management is done by using velcro with the entire frame for the manpack being constructed out of pvc tubbing (1/2") and hockey tape. The overall cost should be around $50 (Canadian Dollars).
 
