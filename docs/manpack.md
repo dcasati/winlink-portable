@@ -48,9 +48,7 @@ With everything fully assembled, velcro can be used for cable management.
 
 ## Cutting list
 
-| Quatity | Item
-| - | - 
-| 
+TODO
 
 ![Alt text](media/5DEA7C73-F921-473B-BDE3-FC69FE96A5A9_4_5005_c.jpeg)
 <p align="center">Manpack during a field activation.</p>
