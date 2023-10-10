@@ -4,12 +4,87 @@ Currently setup was tested on computers running Windows 10 Pro but other version
 
 ### Installing the required programs
 
+#### Setting up digirig
+
 For digirig to interface with Windows, we need a combined driver (serial and audio):
 
 1. Download and Install CP210x_Universal_Windows_Driver from [here](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab%253Ddownloads)
 
-
 For our modem, we will be using Vara. On this topic, you can use the free version of Vara but the paid version is recommended due to the increase in speed.
+
+**Rename the default digirig sound**
+
+Procedure:
+
+1. Open `Control Panel` and then click on `Sound`.
+
+    ![Alt text](media/control-panel.png)
+
+
+**Set the Playback device** 
+
+1. Right click on the `USB PnP Sound Device` and then click on `Set as Default Communication Device`
+
+    ![Alt text](media/digirig-default.png)
+
+1. Select any other audio device and set it as the `Default Device`. This is needed otherwise Windows will use the digirig as its default audio device.
+
+    ![Alt text](media/default-device.png)
+
+1. Rename the USB PnP Sound Device by right clicking on it and then on `Properties`
+
+    ![Alt text](media/digirig-rename.png)
+
+1. Change the name of this device to `Digirig`
+
+    ![Alt text](media/digirig-rename-2.png)
+
+1. Click on `Levels` and change the `Speakers` to **25**
+
+    ![Alt text](media/digirig-default.png)
+
+1. Click on `Ok`
+
+**Set the Recording device**
+
+1. Click on `Recording` and then follow the same procedure on changing the name of the device as illustrated on the `Playback`. Make sure the digirig is marked as the `Default Communications Device`.
+
+
+1. Right click on the `USB PnP Sound Device` and then click on `Set as Default Communication Device`
+
+    ![Alt text](media/digirig-recording-default.png)
+
+1. Select any other audio device and set it as the `Default Device`. This is needed otherwise Windows will use the digirig as its default audio device.
+
+    ![Alt text](media/digirig-recording-default-mic.png)
+
+1. Rename the USB PnP Sound Device by right clicking on it and then on `Properties`
+
+    ![Alt text](media/digirig-recording-rename.png)
+
+1. Change the name of this device to `Digirig`
+
+    ![Alt text](media/digirig-recording-rename2.png)
+
+1. Next, click on `Listen` and then check the `Listen through this device`. Also select the `Continue running when on battery power`
+
+    ![Alt text](media/digirit-listen.png)
+
+> [!NOTE]
+>
+> The reason we are enabling `Listen through this device` is that this will pipe the incoming audio from our Vara session into the default audio device, which allow us to troubleshoot the session or to have an idea of wether or not this is working. It isn't stricly needed for Vara to operate but it is a nice add-on.
+
+1. Click on `Custom` and disable `AGC`
+
+    ![Alt text](media/digirig-custom.png)
+
+1. Click on `Levels` and set it to **25**
+
+    ![Alt text](media/digirig-mic-level.png)
+
+1. Click on `Ok`
+
+#### Setting up Vara and rigctld
 
 1. Download and install Vara from [here](https://rosmodem.wordpress.com/).
     
