@@ -58,6 +58,6 @@ A few selected videos:
 
 ## Contributing
 
-<img src="https://github.com/dcasati/winlink-portable/blob/main/docs/media/contrib.png" width="300">
+![alt text](media/contrib.png)
 
 Want to help with this doc? Do you have a new radio or rig that would like to add here? Contributions are welcome, just do a PR against this repo.
