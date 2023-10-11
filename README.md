@@ -12,6 +12,6 @@ The following describes a setup for a portable Winlink station, using two differ
 
 ## Contributing
 
-![alt text](media/contrib.png)
+![alt text](docs/media/contrib.png)
 
 Want to help with this doc? Do you have a new radio or rig that would like to add here? Contributions are welcome, just do a PR against this repo.
