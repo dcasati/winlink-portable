@@ -20,30 +20,29 @@ This is a makeshift manpack that houses a FT-818nd, an LDG z-817 autotunner, and
 
 ## Assemblying the kit
 
-<img src="https://github.com/dcasati/winlink-portable/blob/main/docs/media/41E3A664-32D5-410C-B610-72D62143DF1B_1_105_c.jpeg" width="300">
+![](media/41E3A664-32D5-410C-B610-72D62143DF1B_1_105_c.jpeg)
 
 Assembling everything and putting into the backpack is easy since the frame was cut to fit the internal storage of the backpack. You can easily modify this to fit another backpack.
 
-<img src="https://github.com/dcasati/winlink-portable/blob/main/docs/media/manpack-fit.png" width="300">
+![](media/manpack-fit.png)
 
 
 **Add the hockey tape**
-
-<img src="https://github.com/dcasati/winlink-portable/blob/main/docs/media/9E339F94-BADB-44D6-890C-509373065865_1_105_c.jpeg" width="300">
+![](media/9E339F94-BADB-44D6-890C-509373065865_1_105_c.jpeg)
 <p align="center">Add Hockey Tape to the PVC after the assembly is done. This will help with the velcro grip.</p>
 
 **Other features**
 
 1. Access to the internal battery
 
-<img src="https://github.com/dcasati/winlink-portable/blob/main/docs/media/battery-access.png" width="300">
+![](media/battery-access.png)
 <p align="center">There is enough space between the PVC crossbars to provide easy access to the internal battery compartment.</p>
 
 1. Cable management
 
 With everything fully assembled, velcro can be used for cable management.
 
-<img src="https://github.com/dcasati/winlink-portable/blob/main/docs/media/86833468-85F4-4BD0-93D0-4997C4C10664_1_102_a.jpeg" width="300">
+![](media/86833468-85F4-4BD0-93D0-4997C4C10664_1_102_a.jpeg)
 
 
 ## Cutting list
